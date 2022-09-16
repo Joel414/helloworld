@@ -6,9 +6,9 @@
 * 
 *  Name: Joel Biju Student ID: 148952203 Date: 17/09/2022
 *
-*  Cyclic Web App URL: ______________________________________________________
+*  Cyclic Web App URL: https://blush-toad-tie.cyclic.app/
 *
-*  GitHub Repository URL: _____________________________________________________
+*  GitHub Repository URL: https://github.com/Joel414/helloworld.git
 *
 ********************************************************************************/ 
 
