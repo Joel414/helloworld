@@ -1,3 +1,17 @@
+/*********************************************************************************
+*  WEB322 – Assignment 05
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part of this
+*  assignment has been copied manually or electronically from any other source (including web sites) or 
+*  distributed to other students.
+* 
+*  Name: Joel Biju Student ID: 148952203 Date: 24/11/2022
+*
+*  Cyclic Web App URL: https://outstanding-teal-bighorn-sheep.cyclic.app
+*
+*  GitHub Repository URL: https://github.com/Joel414/helloworld.git
+*
+********************************************************************************/ 
+
 const express = require('express');
 const blogData = require("./blog-service");
 const path = require("path");
