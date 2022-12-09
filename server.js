@@ -6,9 +6,9 @@
 * 
 *  Name: Joel Biju Student ID: 148952203 Date: 08/12/2022
 *
-*  Cyclic Web App URL: https://outstanding-teal-bighorn-sheep.cyclic.app
+*  Cyclic Web App URL: https://viridian-centipede-wig.cyclic.app
 *
-*  GitHub Repository URL: https://github.com/Joel414/helloworld.git
+*  GitHub Repository URL: https://github.com/Joel414/helloworld1.git
 *
 ********************************************************************************/ 
 
